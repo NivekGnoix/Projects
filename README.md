@@ -1,2 +1,2 @@
-# Projects
+# Whack-A-Mole Project
 
